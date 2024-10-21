@@ -1,0 +1,159 @@
+.hefo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 100px;
+  height: 100px;
+  background-color: #4f494a;
+  color: #c0a791;
+}
+
+.aside {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 100px;
+  background-color: #c0a791;
+  color: #4f494a;
+  height: 70px;
+  padding: 50px;
+  font-size: 1.4em;
+}
+
+#VI {
+  background-color: #b58c99;
+}
+
+#VII {
+  background-color: #f4e9c3;
+}
+
+#VIII {
+  background-color: #a1ac86;
+}
+
+#IX {
+  background-color: #47535b;
+}
+
+#X {
+  background-color: #48353c;
+}
+
+#main {
+  background-color: #f8f6ef;
+  margin: 0 100px;
+}
+
+ul {
+  display: flex; /* Usamos flexbox para alinear los elementos en una fila */
+  list-style-type: none; /* Quitamos los puntos de la lista */
+  padding: 0; /* Quitamos el padding por defecto */
+  margin: 0; /* Quitamos el margen por defecto */
+  margin-bottom: 150px;
+}
+
+.div {
+  padding: 60px;
+  color: #312d2e;
+}
+
+/*li {
+    margin-right: 10px; 
+}*/
+.co {
+  color: #c0a791;
+}
+
+.aya {
+  width: 300px;
+  height: 150px;
+}
+
+#I {
+  background-color: #cb5053;
+}
+
+#II {
+  background-color: #f6ecca;
+}
+
+#III {
+  background-color: #c0a791;
+}
+
+#IV {
+  background-color: #988376;
+}
+
+#V {
+  background-color: #4f494a;
+}
+
+.div {
+  padding: 60px;
+  color: #312d2e;
+}
+.div ul .aya {
+  width: 300px;
+  height: 150px;
+}
+.div ul .aya#XI {
+  background-color: #f3ecc7;
+}
+.div ul .aya#XII {
+  background-color: #b9c69c;
+}
+.div ul .aya#XIII {
+  background-color: #79937c;
+}
+.div ul .aya#XIV {
+  background-color: #596a67;
+}
+.div ul .aya#XV {
+  background-color: #565952;
+}
+
+.div {
+  padding: 60px;
+  color: #312d2e;
+}
+.div ul .aya {
+  width: 300px;
+  height: 150px;
+}
+.div ul .aya#XVI {
+  background-color: #2a7675;
+}
+.div ul .aya#XVII {
+  background-color: #f0e331;
+}
+.div ul .aya#XVIII {
+  background-color: #f19f17;
+}
+.div ul .aya#XIX {
+  background-color: #d98d09;
+}
+.div ul .aya#XX {
+  background-color: #af3220;
+}
+
+#XXI {
+  background-color: #dd9f56;
+}
+
+#XXII {
+  background-color: #f57a2a;
+}
+
+#XXIII {
+  background-color: #b09842;
+}
+
+#XXIV {
+  background-color: #ceb88b;
+}
+
+#XXV {
+  background-color: #d9a874;
+}/*# sourceMappingURL=styles.css.map */

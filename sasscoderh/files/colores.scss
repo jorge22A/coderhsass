@@ -1,0 +1,17 @@
+
+
+$colores: (
+  VI: #b58c99,
+  VII: #f4e9c3,
+  VIII: #a1ac86,
+  IX: #47535b,
+  X: #48353c,
+);
+
+
+@each $id, $color in $colores {
+  ##{$id} {
+    background-color: $color;
+  }
+}
+
